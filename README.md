@@ -3,6 +3,8 @@
 A desktop application built with **Java Swing** and **SQLite**, designed to replace spreadsheets for managing clients, invoices, and financial tracking — all in one clean tabular interface.
 
 ---
+![Start](https://img.shields.io/badge/Start-16/05/2025-4CAF50?style=for-the-badge)
+![End](https://img.shields.io/badge/End-23/07/2025-F44336?style=for-the-badge)
 
 ## 🛠 Tech Stack
 
